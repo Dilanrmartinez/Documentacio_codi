@@ -4,4 +4,5 @@ Se ha añadido una clase la cual nos describe lo que desenvuelve nuestro program
 Dentro de esta clase vemos definidos y documentados los ejercicios los cuales ya hemos hablado anteriormente.
 
 Suma de 2 numeros enteros.
+
 Suma de 3 numeros enteros.
